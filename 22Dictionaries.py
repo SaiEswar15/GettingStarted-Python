@@ -25,12 +25,13 @@ print(obj)
 print(obj.popitem());
 print(obj)
 
+del obj["name"]
+print(obj , "delete the prop from obj")
+
 #get element from the object
 
 obj1 = {"name" : "eswar", "age" : 12, "color" : "red", "lastName" : "pendurthi"}
-
 print(obj1["name"], "get element");
-
 print(obj1.get("name"), "getting the element by get element");
 
 #advantage of using get function

@@ -16,3 +16,11 @@ print(obj1)
 print(obj1.items())
 #if wanted only to print the list of properties
 print(list(obj1.items()))
+
+
+#copy the dictionary into another dictionary
+print(obj1)
+obj2 = obj1.copy();
+obj2["job"] = "kali"
+print(obj1)
+print(obj2)
