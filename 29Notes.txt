@@ -1,0 +1,20 @@
+when we want to print the objects we have to first convert them 
+if object {name : "eswar", "age" : 23} is present in the variable details 
+inorder to print the object we should use 
+
+print(vars(details)) (or)
+print(details.__dict__)
+
+if we want to print the list 
+print(list(details))
+
+when ever writing the constructor use 
+def __init__():
+and also use self keyword 
+def __init__(self):
+
+to extend the classes just use ()
+class Dogs(Animal)
+
+to use the properties inside the super class 
+use super().__init__() inside the constructor
