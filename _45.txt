@@ -1,0 +1,32 @@
+processes we do for lists, tuples, dict, sets
+
+//how we create the empty datatype (generally)
+//how we create the empty datatype (to be specific)
+//how will we add elements into the datatype (generally)
+//how we add using the methods 
+
+//methods available 
+
+//whether they are immutable 
+//whether they are contain duplicates
+//whether they are ordered or not
+
+//loop throught the structure methods
+//find the specific elememt in the datatype
+//can we get the index of the elements
+//can we slice throught the datatype
+//can we have steps through the datatype
+//can they have indexing
+//can we reverse 
+//can we sort 
+//perform methods without mutating and mutating
+
+//delete the elements or not and how ? different types 
+//can we clear the datatype 
+
+//can we concatinate 
+//how can we duplicate the datatype and different types 
+
+//can we destructure 
+//can we get first and last index and how 
+
