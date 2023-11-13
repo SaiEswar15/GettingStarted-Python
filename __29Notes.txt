@@ -1,4 +1,5 @@
-when we want to print the objects we have to first convert them 
+when we want to print the objects when getting from classes using objects 
+we have to first convert them 
 if object {name : "eswar", "age" : 23} is present in the variable details 
 inorder to print the object we should use 
 
