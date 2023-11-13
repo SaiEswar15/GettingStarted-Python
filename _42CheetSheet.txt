@@ -1,0 +1,9 @@
+
+list : mutable, ordered, duplicates [append, insert, extend, pop, in, clear, remove, reverse, sort, sorted]
+tuples : non-mutable, ordered, duplicates [index, count]
+dictionary : mutable, un-ordered, no-duplicates [keys,values,items,get,pop,popitem,update]
+sets : mutable, un-ordered, no-duplicates 
+[remove,
+union , intersection, difference,
+symmetric1_union , symmetric_intersection, symmetric_difference,
+clear, add, discard]
