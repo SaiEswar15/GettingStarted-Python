@@ -2,6 +2,8 @@ import math
 
 import sys 
 
+import operator
+
 from timeit import default_timer as default_timer 
 
 from collections import Counter,  OrderedList, deque  //for lists
@@ -9,4 +11,5 @@ from collections import nameddict, defaultdict        //for dictionaries
 
 from enum import Enum  #for declaring constants
 
-from itertools import product                         //for lists
+from itertools import product, permuations, combinations, combinations_with_replacement  
+                      accumulate,  //for lists
