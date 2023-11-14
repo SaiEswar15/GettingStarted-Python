@@ -4,6 +4,9 @@ import sys
 
 from timeit import default_timer as default_timer 
 
-from collections import Counter
+from collections import Counter,  OrderedList, deque  //for lists
+from collections import nameddict, defaultdict        //for dictionaries
 
 from enum import Enum  #for declaring constants
+
+from itertools import product                         //for lists
