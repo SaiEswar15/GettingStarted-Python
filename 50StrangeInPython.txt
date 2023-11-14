@@ -1,0 +1,24 @@
+POINT 1 :
+while all the naming convention is lower case in python
+we have ordered dictionary from collections 
+while importing remeber the naming convention
+it goes like 
+
+///from collections import OrderedList (capital O and L)
+
+similarly the counter from collections
+
+///from collections import Counter
+
+POINT 2 :
+the join function in python :
+most of the operations take func() and parameters 
+but the join will be different 
+
+suppose we have list arr = ['a','b','c']
+
+most of the methods use map(function, arr)
+but for join method it goes :
+
+joinedString = ''.join(arr)
+
