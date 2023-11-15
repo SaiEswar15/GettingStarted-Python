@@ -12,4 +12,8 @@ from collections import nameddict, defaultdict        //for dictionaries
 from enum import Enum  #for declaring constants
 
 from itertools import product, permuations, combinations, combinations_with_replacement  
-                      accumulate,  //for lists
+                      accumulate, groupby  //for lists
+
+from itertools import count, repeat, cycle  //for loops
+
+from functools import reduce
